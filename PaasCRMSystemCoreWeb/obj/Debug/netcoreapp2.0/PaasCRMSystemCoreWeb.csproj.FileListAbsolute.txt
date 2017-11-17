@@ -1,0 +1,10 @@
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\bin\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.deps.json
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\bin\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.runtimeconfig.json
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\bin\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.runtimeconfig.dev.json
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\bin\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.dll
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\obj\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.csproj.CoreCompileInputs.cache
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\obj\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.AssemblyInfoInputs.cache
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\obj\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.AssemblyInfo.cs
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\bin\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.pdb
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\obj\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.dll
+D:\Azure - Containerization\Demonstrations\PaasCRMSystemCoreWebSolution\PaasCRMSystemCoreWeb\obj\Debug\netcoreapp2.0\PaasCRMSystemCoreWeb.pdb
